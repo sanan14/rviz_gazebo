@@ -1,0 +1,43 @@
+[0.202s] Invoking command in '/home/sanan/Desktop/dev_ws/build/basic_mobile_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sanan/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sanan/Desktop/dev_ws/build/basic_mobile_robot -- -j8 -l8
+[0.244s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.296s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.491s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.561s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.563s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.564s] -- Added test 'lint_cmake' to check CMake code style
+[0.564s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.566s] -- Added test 'xmllint' to check XML markup files
+[0.568s] -- Configuring done
+[0.570s] -- Generating done
+[0.571s] -- Build files have been written to: /home/sanan/Desktop/dev_ws/build/basic_mobile_robot
+[0.604s] Invoked command in '/home/sanan/Desktop/dev_ws/build/basic_mobile_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sanan/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sanan/Desktop/dev_ws/build/basic_mobile_robot -- -j8 -l8
+[0.670s] Invoking command in '/home/sanan/Desktop/dev_ws/build/basic_mobile_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sanan/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/sanan/Desktop/dev_ws/build/basic_mobile_robot
+[0.690s] -- Install configuration: ""
+[0.690s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/config
+[0.690s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/launch
+[0.690s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/launch/basic_mobile_bot_v1.launch.py
+[0.690s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/maps
+[0.690s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/meshes
+[0.691s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models
+[0.691s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_v1.urdf
+[0.691s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/params
+[0.691s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/rviz
+[0.691s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/rviz/urdf_config.rviz
+[0.691s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/src
+[0.692s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/worlds
+[0.692s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/ament_index/resource_index/package_run_dependencies/basic_mobile_robot
+[0.692s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/ament_index/resource_index/parent_prefix_path/basic_mobile_robot
+[0.692s] -- Up-to-date: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/ament_prefix_path.sh
+[0.692s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/ament_prefix_path.dsv
+[0.692s] -- Up-to-date: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/path.sh
+[0.692s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/path.dsv
+[0.693s] -- Up-to-date: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.bash
+[0.693s] -- Up-to-date: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.sh
+[0.693s] -- Up-to-date: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.zsh
+[0.693s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.dsv
+[0.693s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/package.dsv
+[0.693s] -- Up-to-date: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/ament_index/resource_index/packages/basic_mobile_robot
+[0.693s] -- Up-to-date: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/cmake/basic_mobile_robotConfig.cmake
+[0.694s] -- Up-to-date: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/cmake/basic_mobile_robotConfig-version.cmake
+[0.694s] -- Installing: /home/sanan/Desktop/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/package.xml
+[0.696s] Invoked command in '/home/sanan/Desktop/dev_ws/build/basic_mobile_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sanan/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/sanan/Desktop/dev_ws/build/basic_mobile_robot
